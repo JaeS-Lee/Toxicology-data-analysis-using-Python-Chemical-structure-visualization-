@@ -12,4 +12,4 @@ or
 
 [RDKit (ENG)](https://www.rdkit.org/docs/GettingStartedInPython.html)
 
-You can check SMILES of chemicals in [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
+You can check SMILES of chemicals in [PubChem](https://pubchem.ncbi.nlm.nih.gov/) for this visualization process.
